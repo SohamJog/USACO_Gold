@@ -1,2 +1,3 @@
 # USACO_Gold
-My USACO Gold Solutions after May 22 2020
+Problems for USACO implementation practice
+
